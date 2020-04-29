@@ -1,27 +1,7 @@
 # SchoolBus
 error in line 370 saying "reach end of file while parsing"
 
-package visual.bususer;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
-import java.util.ArrayList;
-import java.util.logging.Level;
-import java.util.logging.Logger;
-import javax.swing.JComboBox;
-import javax.swing.JFrame;
-import javax.swing.JOptionPane;
-import javax.swing.JTable;
-import javax.swing.table.DefaultTableModel;
-import javax.swing.table.TableModel;
-import sun.font.SunFontManager;
-import visual.HomePage;
-
-public class BusUser extends javax.swing.JFrame {
 
     public BusUser() {
         initComponents();
