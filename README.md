@@ -1,5 +1,5 @@
 # SchoolBus
-my first program using java for my visual programming assignment
+error in line 370 saying "reach end of file while parsing"
 
 package visual.bususer;
 
